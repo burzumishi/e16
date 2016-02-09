@@ -1,0 +1,2709 @@
+# Catalan translation for enlightenment
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the enlightenment package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enlightenment\n"
+"Report-Msgid-Bugs-To: enlightenment-intl@lists.sourceforge.net\n"
+"POT-Creation-Date: 2015-06-22 20:25+0200\n"
+"PO-Revision-Date: 2015-03-29 14:25+0000\n"
+"Last-Translator: JoanColl <Unknown>\n"
+"Language-Team: Catalan <ca@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2015-03-30 05:18+0000\n"
+"X-Generator: Launchpad (build 17413)\n"
+
+#: src/about.c:35
+#, c-format
+msgid "About Enlightenment e16 version %s"
+msgstr "Quant a Enlightenment e16 versió %s"
+
+#: src/about.c:46
+#, c-format
+msgid ""
+"Welcome to Enlightenment e16\n"
+"version %s.\n"
+"If you find a bug, please do not\n"
+"hesitate to send in a bug report.\n"
+"We hope you enjoy the software.\n"
+"\n"
+"The Rasterman - raster@rasterman.com\n"
+"Mandrake - mandrake@mandrake.net\n"
+"Kim Woelders - kim@woelders.dk\n"
+msgstr ""
+"Benvingut a Enlightenment e16\n"
+"versió %s.\n"
+"Si troba una errada, si us plau, enviï'ns\n"
+"un informe de l'error.\n"
+"Esperem que gaudeixi del programari.\n"
+"\n"
+"The Rasterman - raster@rasterman.com\n"
+"Mandrake - mandrake@mandrake.net\n"
+"Kim Woelders - kim@woelders.dk\n"
+
+#: src/aclass.c:222 src/backgrounds.c:260 src/borders.c:698 src/buttons.c:190
+#: src/cursors.c:139 src/iclass.c:360 src/tclass.c:119 src/tooltips.c:136
+#, c-format
+msgid "%u references remain"
+msgstr "Resten %u referències"
+
+#: src/actions.c:129
+#, c-format
+msgid ""
+"There was an error running the program:\n"
+"%s\n"
+"This program could not be executed.\n"
+"This is because the file does not exist.\n"
+msgstr ""
+"Hi ha hagut un error executant el programa:\n"
+"%s\n"
+"Aquest programa no es pot executar.\n"
+"No existeix el fitxer.\n"
+
+#: src/actions.c:135
+#, c-format
+msgid ""
+"There was an error running the program:\n"
+"%s\n"
+"This program could not be executed.\n"
+"This is most probably because this program is not in the\n"
+"path for your shell which is %s. I suggest you read the manual\n"
+"page for that shell and read up how to change or add to your\n"
+"execution path.\n"
+msgstr ""
+"Hi ha hagut un error executant el programa:\n"
+"%s\n"
+"Aquest programa no es pot executar.\n"
+"Probablement és degut a que el fitxer no apareix a\n"
+"la trajectòria del seu entorn que és %s. Pot canviar o\n"
+"afegir la trajectòria del programa al seu shell per solucionar-ho.\n"
+
+#: src/actions.c:154
+#, c-format
+msgid ""
+"There was an error running the program:\n"
+"%s\n"
+"This program could not be executed.\n"
+"I am unsure as to why you could not do this. The file exists,\n"
+"is a file, and you are allowed to execute it. I suggest you look\n"
+"into this.\n"
+msgstr ""
+"Hi ha hagut un error executant el programa:\n"
+"%s\n"
+"Aquest programa no es pot executar.\n"
+"No està clar perquè no. El fitxer existeix,\n"
+"és un programa, i pot executar-lo.\n"
+"Faci altres comprovacions.\n"
+
+#: src/actions.c:164
+#, c-format
+msgid ""
+"There was an error running the program:\n"
+"%s\n"
+"This program could not be executed.\n"
+"This is because the file exists, is a file, but you are unable\n"
+"to execute it because you do not have execute access to this file.\n"
+msgstr ""
+"Hi ha hagut un error executant el programa:\n"
+"%s\n"
+"Aquest programa no es pot executar.\n"
+"El fitxer existeix, és fitxer, però no es pot executar\n"
+"perquè vostè no té permísos d'execució d'aquest fitxer.\n"
+
+#: src/actions.c:177
+#, c-format
+msgid ""
+"There was an error running the program:\n"
+"%s\n"
+"This program could not be executed.\n"
+"This is because the file is in fact a directory.\n"
+msgstr ""
+"Hi ha hagut un error executant el programa:\n"
+"%s\n"
+"Aquest programa no es pot executar.\n"
+"Això és degut a que el fitxer és un directori.\n"
+
+#: src/actions.c:184
+#, c-format
+msgid ""
+"There was an error running the program:\n"
+"%s\n"
+"This program could not be executed.\n"
+"This is because the file is not a regular file.\n"
+msgstr ""
+"Hi ha hagut un error executant el programa:\n"
+"%s\n"
+"Aquest programa no es pot executar.\n"
+"Això és degut a que el fitxer no té el format addient.\n"
+
+#: src/actions.c:209
+#, c-format
+msgid ""
+"There was an error running the program:\n"
+"%s"
+msgstr ""
+"Hi ha hagut un error executant el programa:\n"
+"%s"
+
+#: src/alert.c:218
+msgid "Enlightenment Error"
+msgstr "Error d'Enlightenment"
+
+#: src/alert.c:571
+msgid "Enlightenment Message Dialog"
+msgstr "Diàleg de missatges Enlightenment"
+
+#: src/alert.c:571
+msgid "Ignore this"
+msgstr "Ignora-ho"
+
+#: src/alert.c:572
+msgid "Restart Enlightenment"
+msgstr "Reinicia Enlightenment"
+
+#: src/alert.c:572 src/setup.c:184
+msgid "Quit Enlightenment"
+msgstr "Surt d'Enlightenment"
+
+#: src/alert.c:582
+msgid "Attention !!!"
+msgstr "Atenció !!!"
+
+#: src/alert.c:582 src/dialog.c:684 src/dialog.c:1823 src/events.c:102
+#: src/setup.c:163 src/setup.c:176 src/sound.c:309
+msgid "OK"
+msgstr "Accepta"
+
+#: src/backgrounds.c:1500
+#, c-format
+msgid ""
+"Background definition information:\n"
+"Name: %s\n"
+"File: %s"
+msgstr ""
+"Informació del fons:\n"
+"Nom: %s\n"
+"Arxiu: %s"
+
+#: src/backgrounds.c:1501
+msgid "-NONE-"
+msgstr "-CAP-"
+
+#: src/backgrounds.c:1676 src/backgrounds.c:1678
+msgid ""
+"No\n"
+"Background"
+msgstr ""
+"No\n"
+"Fons"
+
+#: src/backgrounds.c:1778 src/backgrounds.c:2208
+#, c-format
+msgid "Unused backgrounds freed after %2i:%02i:%02i"
+msgstr "Alliberament de fons no utilitzats després de %2i:%02i:%02i"
+
+#: src/backgrounds.c:1997
+msgid "Use background image"
+msgstr "Utilitza imatge de fons"
+
+#: src/backgrounds.c:2001
+msgid "Keep aspect on scale"
+msgstr "Manté aspecte a l'escalar"
+
+#: src/backgrounds.c:2005
+msgid "Tile image across background"
+msgstr "Mosaic d'imatges en el fons"
+
+#: src/backgrounds.c:2014
+msgid "Move to Front"
+msgstr "Mou cap endavant"
+
+#: src/backgrounds.c:2019
+msgid "Duplicate"
+msgstr "Duplica"
+
+#: src/backgrounds.c:2023
+msgid "Unlist"
+msgstr "No llistat"
+
+#: src/backgrounds.c:2028
+msgid "Delete File"
+msgstr "Suprimeix el fitxer"
+
+#: src/backgrounds.c:2039
+msgid ""
+"Background\n"
+"Image\n"
+"Scaling\n"
+"and\n"
+"Alignment\n"
+msgstr ""
+"Fons\n"
+"Imatge\n"
+"Escalat\n"
+"i\n"
+"Alineació\n"
+
+#: src/backgrounds.c:2093
+msgid "BG Colour"
+msgstr "Color BG"
+
+#: src/backgrounds.c:2098
+msgid "Red:"
+msgstr "Vermell:"
+
+#: src/backgrounds.c:2109
+msgid "Green:"
+msgstr "Verd:"
+
+#: src/backgrounds.c:2120
+msgid "Blue:"
+msgstr "Blau:"
+
+#: src/backgrounds.c:2153
+msgid "Pre-scan BG's"
+msgstr "Pre-escaneig fons"
+
+#: src/backgrounds.c:2161
+msgid "Sort by File"
+msgstr "Ordena per nom"
+
+#: src/backgrounds.c:2166
+msgid "Sort by Attr."
+msgstr "Ordena per atribut"
+
+#: src/backgrounds.c:2172
+msgid "Sort by Image"
+msgstr "Ordena per imatge"
+
+#: src/backgrounds.c:2192
+msgid "Use dithering in Hi-Colour"
+msgstr "Utilitza trama per color d'alta definició"
+
+#: src/backgrounds.c:2196
+msgid "Background overrides theme"
+msgstr "El fons sobrescriu tema"
+
+#: src/backgrounds.c:2201
+msgid "Enable background transparency compatibility mode"
+msgstr "Activa mode compatible amb transparència de fons"
+
+#: src/backgrounds.c:2225 src/mod-trans.c:193
+msgid "Background"
+msgstr "Fons"
+
+#: src/backgrounds.c:2225
+msgid "Desktop Background Settings"
+msgstr "Paràmetres del fons d'escriptori"
+
+#: src/backgrounds.c:2229
+msgid ""
+"Enlightenment Desktop\n"
+"Background Settings Dialog"
+msgstr ""
+"Escriptori Enlightenment\n"
+"Diàleg de paràmetres del fons"
+
+#: src/comms.c:247
+msgid "E IPC Error"
+msgstr "Error E IPC"
+
+#: src/comms.c:248
+#, c-format
+msgid ""
+"Received Unknown Client Message.\n"
+"Client Name:    %s\n"
+"Client Version: %s\n"
+"Message Contents:\n"
+"\n"
+"%s\n"
+msgstr ""
+"S'ha rebut missatge de client desconegut.\n"
+"Nom client:    %s\n"
+"Versió client: %s\n"
+"Contingut missatge:\n"
+"\n"
+"%s\n"
+
+#: src/config.c:201 src/config.c:293
+#, c-format
+msgid "CONFIG: ignoring extra data in \"%s\""
+msgstr "CONFIG: ignorant informació extra a \"%s\""
+
+#: src/config.c:209 src/config.c:300
+#, c-format
+msgid "CONFIG: missing required data in \"%s\""
+msgstr "CONFIG: manca informació necessaria a \"%s\""
+
+#: src/config.c:219
+#, c-format
+msgid ""
+"Warning: unable to determine what to do with\n"
+"the following text in the middle of current %s definition:\n"
+"%s\n"
+"Will ignore and continue...\n"
+msgstr ""
+"Avís: no es pot determinar que fer amb\n"
+"el següent text que es troba a la definició actual %s:\n"
+"%s\n"
+"S'ignorarà i continuarà...\n"
+
+#: src/config.c:227
+#, c-format
+msgid ""
+"Warning:  Configuration error in %s block.\n"
+"Outcome is likely not good.\n"
+msgstr ""
+"Avís:  Error de configuració al bloc %s.\n"
+"El resultat probablement no és bo.\n"
+
+#: src/config.c:309
+msgid "Theme versioning ERROR"
+msgstr "ERROR de la versió del tema"
+
+#: src/config.c:310
+msgid "Restart with Defaults"
+msgstr "Reinicia amb valors predeterminats"
+
+#: src/config.c:311
+msgid "Abort and Exit"
+msgstr "Interromp i surt."
+
+#: src/config.c:312
+#, c-format
+msgid ""
+"ERROR:\n"
+"\n"
+"The configuration for the theme you are running is\n"
+"incompatible. It's config revision is %i.\n"
+"It needs to be marked as being revision <= %i\n"
+"\n"
+"Please contact the theme author or maintainer and\n"
+"inform them that in order for their theme to function\n"
+"with this version of Enlightenment, they have to\n"
+"update it to the current settings, and then match\n"
+"the revision number.\n"
+"\n"
+"If the theme revision is higher than Enlightenment's\n"
+"it may be that you haven't upgraded Enlightenment for\n"
+"a while and this theme takes advantages of new\n"
+"features in Enlightenment in new versions.\n"
+msgstr ""
+"ERROR:\n"
+"\n"
+"Els paràmetres pel tema que esteu executant\n"
+"són incompatibles. La revisió de la configuració és %i.\n"
+"Necessita que la revisió sigui <= %i\n"
+"\n"
+"Si us plau contacti amb l'autor del tema o amb qui el mantingui\n"
+"i informi'l amb la finalitat de que el seu tema funcioni\n"
+"amb aquesta versió d'Enlightenment.\n"
+"Haurien d'actualitzar-lo amb els paràmetres actuals, i després\n"
+"que concordi amb el número de revisió.\n"
+"\n"
+"Si la revisió del tema és superior a la d'Enlightenment\n"
+"pot ser perquè no heu actualitzat Enlightenment \n"
+"recentment i el tema treu partit de les noves característiques\n"
+"de les noves versions d'Enlightenment.\n"
+
+#: src/config.c:614
+msgid "Enlightenment Starting..."
+msgstr "Iniciant Enlightenment..."
+
+#: src/container.c:1187
+msgid "Settings..."
+msgstr "Configuració..."
+
+#: src/container.c:1191 src/dialog.c:695 src/pager.c:1003 config/strings.c:30
+#: config/strings.c:122
+msgid "Close"
+msgstr "Tanca"
+
+#: src/container.c:1196 config/strings.c:83
+msgid "Create New Iconbox"
+msgstr "Crea nova caixa d'icona"
+
+#: src/container.c:1505 src/container.c:1577 src/menus.c:1969
+#, c-format
+msgid "Icon size: %2d"
+msgstr "Tamany icona: %2d"
+
+#: src/container.c:1541
+msgid "Transparent background"
+msgstr "Fons transparent"
+
+#: src/container.c:1545
+msgid "Hide inner border"
+msgstr "Amaga vora interna"
+
+#: src/container.c:1549
+msgid "Draw base image behind Icons"
+msgstr "Dibuixa la imatge de base darrere de les icones"
+
+#: src/container.c:1553
+msgid "Hide scrollbar when not needed"
+msgstr "Oculta la barra de desplaçament quan no es necessita"
+
+#: src/container.c:1557
+msgid "Automatically resize to fit Icons"
+msgstr "Mida automàtica per ajustar icones"
+
+#: src/container.c:1564
+msgid "Alignment of anchoring when automatically resizing:"
+msgstr "Alineació d'ancoratge en canviar la mida de forma automàtica:"
+
+#: src/container.c:1595
+msgid "Orientation:"
+msgstr "Orientació:"
+
+#: src/container.c:1598
+msgid "Horizontal"
+msgstr "Horitzontal"
+
+#: src/container.c:1603
+msgid "Vertical"
+msgstr "Vertical"
+
+#: src/container.c:1614
+msgid "Scrollbar side:"
+msgstr "Barra de desplaçament lateral:"
+
+#: src/container.c:1617
+msgid "Left / Top"
+msgstr "Esquerra / Dalt"
+
+#: src/container.c:1622
+msgid "Right / Bottom"
+msgstr "Dreta / Baix"
+
+#: src/container.c:1633
+msgid "Scrollbar arrows:"
+msgstr "Fletxes barra de desplaçament"
+
+#: src/container.c:1636
+msgid "Start"
+msgstr "Inicia"
+
+#: src/container.c:1641
+msgid "Both ends"
+msgstr "Ambdós extrems"
+
+#: src/container.c:1646
+msgid "End"
+msgstr "Fi"
+
+#: src/container.c:1651 src/focus.c:986
+msgid "None"
+msgstr "Cap"
+
+#: src/container.c:1661
+msgid "Show icon names"
+msgstr "Mostra noms d'icones"
+
+#: src/container.c:1670
+msgid "Animation mode:"
+msgstr "Mode animació:"
+
+#: src/container.c:1673 src/desktops.c:2721
+msgid "Off"
+msgstr "Desactivat"
+
+#: src/container.c:1678
+msgid "Whirl"
+msgstr "Torsió"
+
+#: src/container.c:1683 src/settings.c:126 src/settings.c:131
+#: src/settings.c:396
+msgid "Box"
+msgstr "Caixa"
+
+#: src/container.c:1691
+msgid "Animation speed:"
+msgstr "Velocitat de l'animació:"
+
+#: src/container.c:1706
+msgid "Icon image display policy (if one operation fails, try the next):"
+msgstr ""
+"Política de visualització de la imatge de la icona (si l'operació falla, "
+"intenta la següent):"
+
+#: src/container.c:1711
+msgid "Snapshot Windows, Use application icon, Use Enlightenment Icon"
+msgstr ""
+"Finestra de captura, Utilitza icona de l'aplicació, Utilitza la icona "
+"d'Enlightenment"
+
+#: src/container.c:1718
+msgid "Use application icon, Use Enlightenment Icon, Snapshot Window"
+msgstr ""
+"Utilitza icona de l'aplicació, Utilitza la icona d'Enlightenment, Finestra "
+"de captura"
+
+#: src/container.c:1723
+msgid "Use Enlightenment Icon, Snapshot Window"
+msgstr "Utilitza la icona d'Enlightenment, Finestra de captura"
+
+#: src/container.c:1736
+msgid ""
+"Enlightenment Iconbox\n"
+"Settings Dialog"
+msgstr ""
+"Caixa d'icona Enlightenment\n"
+"Diàleg de paràmetres"
+
+#: src/coords.c:75
+#, c-format
+msgid "Focused/unfocused opacity: %d/%d %%"
+msgstr "Opacitat d'enfoc/desenfoc: %d/%d %%"
+
+#: src/desktops.c:135
+msgid ""
+"Hold down the mouse button and drag\n"
+"the mouse to be able to drag the desktop\n"
+"back and forth.\n"
+"Click right mouse button for a list of all\n"
+"Desktops and their applications.\n"
+"Click middle mouse button for a list of all\n"
+"applications currently running.\n"
+msgstr ""
+"Premeu el botó del ratolí i arrossegueu\n"
+"el ratolí per poder arrossegar l'escriptori\n"
+"endavant i enrera.\n"
+"Feu clic al botó dret del ratolí per veure una llista de tots els\n"
+"escriptoris i les seves aplicacions.\n"
+"Feu clic al botó central del ratolí per veure una llista de totes les\n"
+"aplicacions actives.\n"
+
+#: src/desktops.c:146
+msgid ""
+"This is the Root desktop.\n"
+"You cannot drag the root desktop around.\n"
+"Click right mouse button for a list of all\n"
+"Desktops and their applications.\n"
+"Click middle mouse button for a list of all\n"
+"applications currently running.\n"
+msgstr ""
+"Aquest és l'escriptori arrel.\n"
+"No es pot arrossegar l'escriptori arrel.\n"
+"Feu clic al botó dret del ratolí per veure una llista de tots els\n"
+"escriptoris i les seves aplicacions.\n"
+"Feu clic al botó central del ratolí per veure una llista de totes les\n"
+"aplicacions actives.\n"
+
+#: src/desktops.c:164
+msgid ""
+"Click here to raise this desktop\n"
+"to the top."
+msgstr "Faci clic aquí per pujar aquest escriptori."
+
+#: src/desktops.c:176
+msgid ""
+"Click here to lower this desktop\n"
+"to the bottom."
+msgstr "Faci clic aquí per baixar aquest escriptori."
+
+#: src/desktops.c:2487
+msgid "Number of virtual desktops:"
+msgstr "Nombre d'escriptoris virtuals"
+
+#: src/desktops.c:2513
+msgid "Slide desktops around when changing"
+msgstr "Mostra presentació d'escriptoris quan es canviï"
+
+#: src/desktops.c:2519
+msgid "Desktop Slide speed:"
+msgstr "Velocitat presentació d'escriptoris:"
+
+#: src/desktops.c:2533
+msgid "Wrap desktops around"
+msgstr "Minimitza tots els escriptoris"
+
+#: src/desktops.c:2541
+msgid "Display desktop dragbar"
+msgstr "Mostra barra d'arrossegament d'escriptori"
+
+#: src/desktops.c:2547
+msgid "Drag bar position:"
+msgstr "Posició de la barra d'arrossegament:"
+
+#: src/desktops.c:2551
+msgid "Top"
+msgstr "A dalt"
+
+#: src/desktops.c:2557
+msgid "Bottom"
+msgstr "A baix"
+
+#: src/desktops.c:2563 src/pager.c:1898 src/pager.c:1923 src/pager.c:1948
+msgid "Left"
+msgstr "Esquerra"
+
+#: src/desktops.c:2569 src/pager.c:1910 src/pager.c:1935 src/pager.c:1960
+msgid "Right"
+msgstr "Dreta"
+
+#: src/desktops.c:2577 src/menus-misc.c:578
+msgid "Desks"
+msgstr "Escriptoris"
+
+#: src/desktops.c:2577
+msgid "Multiple Desktop Settings"
+msgstr "Configuració escriptoris múltiples"
+
+#: src/desktops.c:2581
+msgid ""
+"Enlightenment Multiple Desktop\n"
+"Settings Dialog"
+msgstr ""
+"Escriptori múltiple d'Enlightenment\n"
+"Diàleg de paràmetres"
+
+#: src/desktops.c:2675
+msgid "Virtual Desktop size:"
+msgstr "Mida escriptori virtual:"
+
+#: src/desktops.c:2711
+msgid "Wrap virtual desktops around"
+msgstr "Minimitza tots els escriptoris virtuals"
+
+#: src/desktops.c:2718
+msgid "Edge Flip Mode:"
+msgstr "Mode vora intercanvi:"
+
+#: src/desktops.c:2726
+msgid "On"
+msgstr "Activat"
+
+#: src/desktops.c:2731
+msgid "Only when moving window"
+msgstr "Només quan es mogui finestra"
+
+#: src/desktops.c:2737
+msgid "Resistance at edge of screen:"
+msgstr "Resistència a la vora de la pantalla:"
+
+#: src/desktops.c:2749
+msgid "Areas"
+msgstr "Àrees"
+
+#: src/desktops.c:2749
+msgid "Virtual Desktop Settings"
+msgstr "Paràmetres escriptori virtual"
+
+#: src/desktops.c:2753
+msgid ""
+"Enlightenment Virtual Desktop\n"
+"Settings Dialog"
+msgstr ""
+"Escriptori virtual Enlightenment\n"
+"Diàleg de paràmetres"
+
+#: src/dialog.c:689
+msgid "Apply"
+msgstr "Aplica"
+
+#: src/ecompmgr.c:2318
+msgid ""
+"Cannot enable Composite Manager.\n"
+"Use xdpyinfo to check that\n"
+"Composite, Damage, Fixes, and Render\n"
+"extensions are loaded."
+msgstr ""
+"No es pot activar el gestor Composite.\n"
+"Utilitzi xdpyinfo per comprovar que\n"
+"les extensions Composite, Damage, Fixes,\n"
+"i Render estiguin carregades."
+
+#: src/events.c:102
+msgid "X server setup error"
+msgstr "Error de configuració del  Xserver"
+
+#: src/events.c:103
+msgid ""
+"FATAL ERROR:\n"
+"\n"
+"This Xserver does not support the Shape extension.\n"
+"This is required for Enlightenment to run.\n"
+"\n"
+"Your Xserver probably is too old or mis-configured.\n"
+"\n"
+"Exiting.\n"
+msgstr ""
+"ERROR CRÍTIC:\n"
+"\n"
+"Xserver no permet l'extensió Shape.\n"
+"Això és necessari perl funcionament d'Enlightenment.\n"
+"\n"
+"Probablement Xserver és massa antic o no està ben configurat.\n"
+"\n"
+"Sortint.\n"
+
+#: src/focus.c:827
+msgid "Focus follows pointer"
+msgstr "El punter segueix el focus"
+
+#: src/focus.c:833
+msgid "Focus follows pointer sloppily"
+msgstr "El focus segueix el punter de forma no precisa"
+
+#: src/focus.c:839
+msgid "Focus follows mouse clicks"
+msgstr "El focus segueix el clic de ratolí"
+
+#: src/focus.c:849
+msgid "Clicking in a window always raises it"
+msgstr "En fer clic a una finestra apareix"
+
+#: src/focus.c:857
+msgid "All new windows first get the focus"
+msgstr "Totes les noves finestres obtenen focus primer"
+
+#: src/focus.c:864
+msgid "New windows get the focus if their window group is focused"
+msgstr ""
+"Les noves finestres obtenen focus si el grup al que pertanyen està enfocat"
+
+#: src/focus.c:869
+msgid "Only new dialog windows get the focus"
+msgstr "Només obtenen focus les noves finestres de diàleg"
+
+#: src/focus.c:876
+msgid "Only new dialogs whose owner is focused get the focus"
+msgstr "Obtenen focus només els nous diàlegs on el propietari té el focus"
+
+#: src/focus.c:881
+msgid "Raise windows while switching focus"
+msgstr "Eleva finestres quan es canvia el focus"
+
+#: src/focus.c:887
+msgid "Send mouse pointer to window while switching focus"
+msgstr "Enviar punter del ratolí a la finestra mentre es canvia el focus"
+
+#: src/focus.c:893
+msgid "Always send mouse pointer to window on focus switch"
+msgstr "Envia sempre el punter de ratolí a la finestra quan en canvia el focus"
+
+#: src/focus.c:901
+msgid "Raise windows automatically"
+msgstr "Eleva la finestra automàticament"
+
+#: src/focus.c:907
+msgid "Autoraise delay:"
+msgstr "Retard d'elevació:"
+
+#: src/focus.c:920
+msgid "Display and use focus list"
+msgstr "Mostra i utilitza llista de focus"
+
+#: src/focus.c:925
+msgid "Include sticky windows in focus list"
+msgstr "Inclou finestres enganxoses a la llista de focus"
+
+#: src/focus.c:930
+msgid "Include shaded windows in focus list"
+msgstr "Inclou finestres ombrejades a la llista de focus"
+
+#: src/focus.c:935
+msgid "Include iconified windows in focus list"
+msgstr "Inclou finestres minimitzades a la llista de focus"
+
+#: src/focus.c:940
+msgid "Include windows on other desks in focus list"
+msgstr "Inclou finestres en altres escriptoris a la llista de focus"
+
+#: src/focus.c:945
+msgid "Focus windows while switching"
+msgstr "Focalitza finestres quan es canviïn"
+
+#: src/focus.c:950
+msgid "Outline windows while switching"
+msgstr "Esquema de finestres quan es canviïn"
+
+#: src/focus.c:955
+msgid "Raise windows after focus switch"
+msgstr "Eleva finestra després de canviar el focus"
+
+#: src/focus.c:960
+msgid "Send mouse pointer to window after focus switch"
+msgstr "Envia punter de ratolí a la finestra després de canviar el focus"
+
+#: src/focus.c:970
+msgid "Focuslist image display policy (if one operation fails, try the next):"
+msgstr ""
+"Política al mostrar imatges Focuslist (si una operació falla, prova això):"
+
+#: src/focus.c:974
+msgid "First E Icon, then App Icon"
+msgstr "Primer icona E, després icona App"
+
+#: src/focus.c:980
+msgid "First App Icon, then E Icon"
+msgstr "Primer icona App, després icona E"
+
+#: src/focus.c:994
+msgid "Focus"
+msgstr "Focus"
+
+#: src/focus.c:994
+msgid "Focus Settings"
+msgstr "Configuració de focus"
+
+#: src/focus.c:998
+msgid ""
+"Enlightenment Focus\n"
+"Settings Dialog"
+msgstr ""
+"Focus Enlightenment\n"
+"Diàleg de configuració"
+
+#: src/fx.c:462
+msgid "Effects"
+msgstr "Efectes"
+
+#: src/fx.c:464
+msgid "Ripples"
+msgstr "Ondulacions"
+
+#: src/fx.c:467
+msgid "Waves"
+msgstr "Ones"
+
+#: src/fx.c:473
+msgid "FX"
+msgstr "Efectes especials"
+
+#: src/fx.c:473
+msgid "Special FX Settings"
+msgstr "Configuració efectes especials"
+
+#: src/fx.c:477
+msgid ""
+"Enlightenment Special Effects\n"
+"Settings Dialog"
+msgstr ""
+"Efectes especials Enlightenment\n"
+"Diàleg de configuració"
+
+#: src/groups.c:701
+msgid "Window Group Selection"
+msgstr "Selecció grup de finestres"
+
+#: src/groups.c:705
+msgid ""
+"Enlightenment Window Group\n"
+"Selection Dialog"
+msgstr ""
+"Grup de fonestres Enlightenment\n"
+"Diàleg de selecció"
+
+#: src/groups.c:728
+msgid "Pick the group the window will belong to:"
+msgstr "Triï el grup a que pertany la finestra:"
+
+#: src/groups.c:732
+msgid "Select the group to remove the window from:"
+msgstr "Seleccioni el grup d'on es treurà la finestra:"
+
+#: src/groups.c:736
+msgid "Select the group to break:"
+msgstr "Seleccioni el grup a trencar:"
+
+#: src/groups.c:747 src/groups.c:757 src/groups.c:764 src/groups.c:946
+msgid "Window Group Error"
+msgstr "Error de grup de finestra"
+
+#: src/groups.c:749
+msgid ""
+"This window currently does not belong to any groups.\n"
+"You can only destroy groups or remove windows from groups\n"
+"through a window that actually belongs to at least one group."
+msgstr ""
+"Aquesta finestra actualment no pertany a cap grup.\n"
+"Només pot eliminar grups o treure finestres dels grups\n"
+"des d'una finestra que pertanyi com a mínim a un grup."
+
+#: src/groups.c:758
+msgid ""
+"Currently, no groups exist or this window\n"
+"already belongs to all existing groups.\n"
+"You have to start other groups first."
+msgstr ""
+"Actualment no existeixen grups o aquesta finestra\n"
+"pertany a tots els grups existents\n"
+"Primer hauria de crear altres grups."
+
+#: src/groups.c:766
+msgid "Currently, no groups exist. You have to start a group first."
+msgstr "Actualment, no existeixen grups. Primer hauria de crear un grup."
+
+#: src/groups.c:856
+msgid "Pick the group to configure:"
+msgstr "Triï un grup a configurar:"
+
+#: src/groups.c:885
+msgid ""
+"The following actions are\n"
+"applied to all group members:"
+msgstr ""
+"Aquestes accions s'aplicaran\n"
+"a tots els membres del grup:"
+
+#: src/groups.c:890 src/groups.c:991
+msgid "Changing Border Style"
+msgstr "Canvi d'estil de la vora"
+
+#: src/groups.c:895 src/groups.c:996
+msgid "Iconifying"
+msgstr "Minimització"
+
+#: src/groups.c:900 src/groups.c:1001
+msgid "Killing"
+msgstr "Finalització"
+
+#: src/groups.c:905 src/groups.c:1006
+msgid "Moving"
+msgstr "Moviment"
+
+#: src/groups.c:910 src/groups.c:1011
+msgid "Raising/Lowering"
+msgstr "Elevar/Abaixar"
+
+#: src/groups.c:915 src/groups.c:1016
+msgid "Sticking"
+msgstr "Enganxament"
+
+#: src/groups.c:920 src/groups.c:1021
+msgid "Shading"
+msgstr "Ombrejat"
+
+#: src/groups.c:926
+msgid "Window Group Settings"
+msgstr "Configuració del grup de finestres"
+
+#: src/groups.c:930
+msgid ""
+"Enlightenment Window Group\n"
+"Settings Dialog"
+msgstr ""
+"Grup de finestres Enlightenment\n"
+"Diàleg de configuració"
+
+#: src/groups.c:947
+msgid "This window currently does not belong to any groups."
+msgstr "Actualment aquesta finestra no pertany a cap grup."
+
+#: src/groups.c:984
+msgid "Per-group settings:"
+msgstr "Configuració per grup:"
+
+#: src/groups.c:1030
+msgid "Global settings:"
+msgstr "Configuració global:"
+
+#: src/groups.c:1034
+msgid "Swap Window Locations"
+msgstr "Ubicacions finestra d'intercanvi"
+
+#: src/groups.c:1040 src/menus-misc.c:638 config/strings.c:138
+msgid "Groups"
+msgstr "Grups"
+
+#: src/groups.c:1040
+msgid "Default Group Control Settings"
+msgstr "Configuració control del grup predeterminat"
+
+#: src/groups.c:1044
+msgid ""
+"Enlightenment Default\n"
+"Group Control Settings Dialog"
+msgstr ""
+"Enlightenment predeterminat\n"
+"Diàleg de la configuració del control del grup"
+
+#: src/handlers.c:64
+#, c-format
+msgid ""
+"Enlightenment performed an Illegal Instruction.\n"
+"\n"
+"This most likely is due to you having installed an run a\n"
+"binary of Enlightenment that was compiled for a make or model\n"
+"of CPU not 100%% identical or compatible with yours. Please\n"
+"either obtain the correct package for your system, or\n"
+"re-compile Enlightenment and possibly any support libraries\n"
+"that you got in binary format to run Enlightenment.\n"
+msgstr ""
+"Enlightenment ha executat una instrucció il·legal.\n"
+"\n"
+"El més probable és que hagueu instal·lat i executat un binari\n"
+"d'Enlightenment que ha estat compilat per un tipus de model\n"
+"de CPU que no és 100%% idèntica o compatible amb la vostra.\n"
+"Si us plau, obteniu el paquet correcte perl vostre sistema, o\n"
+"recompileu Enlightenment i les possibles llibreries de suport\n"
+"que tingueu en format binari per executar Enlightenment.\n"
+
+#: src/handlers.c:74
+msgid ""
+"Enlightenment caused a Floating Point Exception.\n"
+"\n"
+"This means that Enlightenment or support library routines it calls\n"
+"have performed an illegal mathematical operation (most likely\n"
+"dividing a number by zero). This is most likely a bug. It is\n"
+"recommended to restart now. If you wish to help fix this please\n"
+"compile Enlightenment with debugging symbols in and run\n"
+"Enlightenment under gdb so you can backtrace for where it died and\n"
+"send in a useful bug report with backtrace information and variable\n"
+"dumps etc.\n"
+msgstr ""
+"Enlightenment ha trobat una excepció de coma flotant.\n"
+"\n"
+"Això significa que Enlightenment o les rutines que hi ha a les llibreries\n"
+"de suport que executa han realitzat una operació matemàtica il·legal\n"
+"(normalment la divisió d'un número per 0). Sembla un error. Es recomana "
+"reiniciar.\n"
+"Si vol ajudar a solventar l'error si us plau compili\n"
+"Enlightenment en mode depuració d'errors i executi\n"
+"Enlightenment sota gdb així pot saber on el programa ha fallat\n"
+"i enviï el registre d'error amb informació que pugui ser útil,\n"
+"com ara valors de variables, línia de codi on ha fallat, etc.\n"
+
+#: src/handlers.c:86
+msgid ""
+"Enlightenment caused Segment Violation (Segfault)\n"
+"\n"
+"This means that Enlightenment or support library routines it calls\n"
+"have accessed areas of your system's memory that they are not\n"
+"allowed access to. This is most likely a bug. It is recommended to\n"
+"restart now. If you wish to help fix this please compile\n"
+"Enlightenment with debugging symbols in and run Enlightenment\n"
+"under gdb so you can backtrace for where it died and send in a\n"
+"useful bug report with backtrace information and variable\n"
+"dumps etc.\n"
+msgstr ""
+"Enlightenment ha realitzat una violació de segment (Segfault)\n"
+"\n"
+"Això significa que Enlightenment o les rutines de les llibreries de\n"
+"suport que utilitza han accedit a àrees de la memòria del sistema\n"
+"on no està permès accedir. Sembla un error. Es recomana reiniciar.\n"
+"Si vol ajudar a solventar l'error si us plau compili\n"
+"Enlightenment en mode depuració d'errors i executi\n"
+"Enlightenment sota gdb així pot saber on el programa ha fallat\n"
+"i enviï el registre d'error amb informació que pugui ser útil,\n"
+"com ara valors de variables, línia de codi on ha fallat, etc.\n"
+
+#: src/handlers.c:98
+msgid ""
+"Enlightenment caused Bus Error.\n"
+"\n"
+"It is suggested you check your hardware and OS installation.\n"
+"It is highly unusual to cause Bus Errors on operational\n"
+"hardware.\n"
+msgstr ""
+"Ha ocorregut un error de bus a Enlightenment.\n"
+"\n"
+"Li suggerim que comproveu el vostre maquinari i la instal·lació del SO.\n"
+"Quasi cap vegada succeeix un error de bus en maquinari que sigui operatiu.\n"
+
+#: src/hints.c:611
+msgid "Selection Error!"
+msgstr "Error de selecció"
+
+#: src/hints.c:611
+#, c-format
+msgid "Could not acquire selection: %s"
+msgstr "No s'ha pogut capturar la selecció: %s"
+
+#: src/iconify.c:478
+msgid "Iconbox Options"
+msgstr "Opcions  de la caixa d'icones"
+
+#: src/iconify.c:479
+msgid "Iconbox Settings"
+msgstr "Configuració de la caixa d'icones"
+
+#: src/ipc.c:199 src/ipc.c:1470 src/ipc.c:1477 src/theme.c:377
+msgid "Message"
+msgstr "Missatge"
+
+#: src/ipc.c:1470 src/ipc.c:1477
+#, c-format
+msgid "e16 was built without %s support"
+msgstr "e16 s'ha muntat sense suport a %s"
+
+#: src/ipc.c:1471
+msgid "composite"
+msgstr "composició"
+
+#: src/ipc.c:1478
+msgid "sound"
+msgstr "so"
+
+#: src/ipc.c:1821
+msgid "Enlightenment IPC Commands Help\n"
+msgstr "Ajuda de les ordres IPC d'Enlightenment\n"
+
+#: src/ipc.c:1825
+msgid ""
+"Use \"help all\" for descriptions of each command\n"
+"Use \"help <command>\" for an individual description\n"
+"\n"
+msgstr ""
+"Utilitzeu \"help all\" per obtenir les descripcions de cadascuan de les "
+"ordres\n"
+"Utilitzeu \"help <ordre>\" per a una descripció d'una ordre individual\n"
+"\n"
+
+#: src/ipc.c:1827 src/ipc.c:1847 src/ipc.c:1859
+msgid "Commands currently available:\n"
+msgstr "Ordres actualment disponibles:\n"
+
+#: src/ipc.c:1845
+msgid "Use \"help full\" for full descriptions of each command\n"
+msgstr "Utilitzeu \"help full\" per a descripcions completes de cada ordre\n"
+
+#: src/ipc.c:1846
+msgid "Use \"help <command>\" for an individual description\n"
+msgstr "Utilitzeu \"help <ordre>\" per a descripció individual\n"
+
+#: src/ipc.c:1848 src/ipc.c:1860
+msgid "         <command>     : <description>\n"
+msgstr "         <ordre>     : <descripció>\n"
+
+#: src/main.c:534
+#, c-format
+msgid ""
+"%s must be a directory in which you have\n"
+"read, write, and execute permission.\n"
+msgstr ""
+"%s hauria de ser un directori on vostè tingués\n"
+"permisos de lectura, escriptura i execució.\n"
+
+#: src/main.c:633
+#, c-format
+msgid ""
+"!!!!!!!! ERROR ERROR ERROR ERROR !!!!!!!!\n"
+"\n"
+"Enlightenment's utility executable cannot be found at:\n"
+"\n"
+"%s\n"
+"This is a fatal error and Enlightenment will cease to run.\n"
+"Please rectify this situation and ensure it is installed\n"
+"correctly.\n"
+"\n"
+"The reason this could be missing is due to badly created\n"
+"packages, someone manually deleting that program or perhaps\n"
+"an error in installing Enlightenment.\n"
+msgstr ""
+"!!!!!!!! ERROR ERROR ERROR ERROR !!!!!!!!\n"
+"\n"
+"L'executable de la utilitat d'Enlightenment's no s'ha trobat a:\n"
+"\n"
+"%s\n"
+"Això és un error molt greu i Enlightenment deixarà de funcionar.\n"
+"Si us plau, rectifiqueu aquesta situació i assegureu-vos que està "
+"instal·lada\n"
+"correctament.\n"
+"\n"
+"La raó de que no es trobi pot ser deguda a una creació dolenta\n"
+"dels paquets, a que algú eliminés manualment el programa o potser\n"
+"un error a l'instal·lar Enlightenment.\n"
+
+#: src/main.c:647
+#, c-format
+msgid ""
+"!!!!!!!! ERROR ERROR ERROR ERROR !!!!!!!!\n"
+"\n"
+"Enlightenment's utility executable is not able to be executed:\n"
+"\n"
+"%s\n"
+"This is a fatal error and Enlightenment will cease to run.\n"
+"Please rectify this situation and ensure it is installed\n"
+"correctly.\n"
+msgstr ""
+"!!!!!!!! ERROR ERROR ERROR ERROR !!!!!!!!\n"
+"\n"
+"L'executable de la utilitat d'Enlightenment no es pot executar:\n"
+"\n"
+"%s\n"
+"Aquest error és molt greu i Enlightenment deixarà de funcionar.\n"
+"Si us plau, rectifiqueu aquesta situació i assegureu-vos de que està\n"
+"instal·lada correctament.\n"
+
+#: src/magwin.c:507
+msgid "Magnifier"
+msgstr "Ampliador"
+
+#: src/menus-misc.c:419 config/strings.c:79
+msgid "Backgrounds"
+msgstr "Fons"
+
+#: src/menus-misc.c:458 config/strings.c:91 config/strings.c:113
+msgid "Themes"
+msgstr "Temes"
+
+#: src/menus-misc.c:475
+msgid "Border"
+msgstr "Vora"
+
+#: src/menus-misc.c:538
+msgid "Window List"
+msgstr "Llista de finestres"
+
+#: src/menus-misc.c:560
+msgid "Go to this Desktop"
+msgstr "Vés a aquest escriptori"
+
+#: src/menus-misc.c:564 src/menus-misc.c:660
+#, c-format
+msgid "Desktop %i"
+msgstr "Escriptori %i"
+
+#: src/menus-misc.c:607
+msgid "Show/Hide this group"
+msgstr "Mostra/Amaga aquest grup"
+
+#: src/menus-misc.c:612
+msgid "Iconify this group"
+msgstr "Minimitza aquest grup"
+
+#: src/menus-misc.c:623
+#, c-format
+msgid "Group %i"
+msgstr "Grup %i"
+
+#: src/menus.c:1988
+msgid "Animated display of menus"
+msgstr "Mostra animació dels menús"
+
+#: src/menus.c:1993
+msgid "Always pop up menus on screen"
+msgstr "Mostra sempre els menús emergents a la pantalla"
+
+#: src/menus.c:1998
+msgid "Warp pointer after moving menus"
+msgstr "Distorsiona el punter quan es moguin els menús"
+
+#: src/menus.c:2015
+msgid "Menus"
+msgstr "Menús"
+
+#: src/menus.c:2015
+msgid "Menu Settings"
+msgstr "Preferències del menú"
+
+#: src/menus.c:2019
+msgid ""
+"Enlightenment Menu\n"
+"Settings Dialog"
+msgstr ""
+"Menú d'Enlightenment\n"
+"Paràmetres de configuració"
+
+#: src/mod-trans.c:95
+#, c-format
+msgid "Theme transparency: %2d"
+msgstr "Transparència del tema: %2d"
+
+#: src/mod-trans.c:132
+msgid "Changes Might Require Restart:"
+msgstr "Els canvis poden requerir reiniciar:"
+
+#: src/mod-trans.c:141
+msgid "Borders:"
+msgstr "Vores:"
+
+#: src/mod-trans.c:145
+msgid "Menus:"
+msgstr "Menús:"
+
+#: src/mod-trans.c:149
+msgid "Hilights:"
+msgstr "Ressaltat:"
+
+#: src/mod-trans.c:153
+msgid "E Widgets:"
+msgstr "Ginys:"
+
+#: src/mod-trans.c:157
+msgid "E Dialogs:"
+msgstr "Diàlegs:"
+
+#: src/mod-trans.c:161
+msgid "Tooltips:"
+msgstr "Consells d'eines:"
+
+#: src/mod-trans.c:165 src/settings.c:96 src/settings.c:101 src/settings.c:381
+msgid "Opaque"
+msgstr "Opac"
+
+#: src/mod-trans.c:226
+msgid "Glass"
+msgstr "Vidre"
+
+#: src/mod-trans.c:256
+msgid "Transparency"
+msgstr "Transparència"
+
+#: src/mod-trans.c:256
+msgid "Selective Transparency Settings"
+msgstr "Configuració de la transparència selectiva"
+
+#: src/mod-trans.c:260
+msgid ""
+"Enlightenment Selective Transparency\n"
+"Settings Dialog"
+msgstr ""
+"Transparència selectiva\n"
+"Diàleg de configuració"
+
+#: src/pager.c:992 config/strings.c:49 config/strings.c:121
+msgid "Window Options"
+msgstr "Opcions de la finestra"
+
+#: src/pager.c:999 config/strings.c:51 config/strings.c:124
+msgid "Iconify"
+msgstr "Minimitza"
+
+#: src/pager.c:1007 config/strings.c:123
+msgid "Annihilate"
+msgstr "Aniquila"
+
+#: src/pager.c:1011
+msgid "Stick / Unstick"
+msgstr "Enganxa / Desenganxa"
+
+#: src/pager.c:1018
+msgid "Desktop Options"
+msgstr "Opcions d'escriptori"
+
+#: src/pager.c:1024
+msgid "Pager Settings..."
+msgstr "Paràmetres del paginador..."
+
+#: src/pager.c:1029
+msgid "Snapshotting Off"
+msgstr "Captura d'imatge desactivada"
+
+#: src/pager.c:1033
+msgid "High Quality Off"
+msgstr "Alta qualitat desactivada"
+
+#: src/pager.c:1035
+msgid "High Quality On"
+msgstr "Alta qualitat activada"
+
+#: src/pager.c:1040
+msgid "Snapshotting On"
+msgstr "Captura d'imatges activada"
+
+#: src/pager.c:1044
+msgid "Zoom Off"
+msgstr "Ampliació desactivada"
+
+#: src/pager.c:1046
+msgid "Zoom On"
+msgstr "Ampliació activada"
+
+#: src/pager.c:1787 src/pager.c:1878
+msgid "Pager scanning speed:"
+msgstr "Velocitat de l'escanejat del paginador"
+
+#: src/pager.c:1788 src/pager.c:1879
+msgid "lines per second"
+msgstr "línies per segon"
+
+#: src/pager.c:1817
+msgid "Enable pager display"
+msgstr "Activa el paginador"
+
+#: src/pager.c:1827
+msgid "Pager Mode:"
+msgstr "Mode del paginador:"
+
+#: src/pager.c:1831
+msgid "Simple"
+msgstr "Simple"
+
+#: src/pager.c:1837
+msgid "Make miniature snapshots of the screen"
+msgstr "Fer miniatures de les captures de la pantalla"
+
+#: src/pager.c:1844
+msgid "Live Update"
+msgstr "Actualització en viu"
+
+#: src/pager.c:1855
+msgid "Smooth high quality snapshots in snapshot mode"
+msgstr "Suavitzat de les captures d'alta qualitat en el mode captura d'imatges"
+
+#: src/pager.c:1860
+msgid "Zoom in on pager windows when mouse is over them"
+msgstr "Amplia en el paginador quan el ratolí estigui damunt"
+
+#: src/pager.c:1866
+msgid "Pop up window title when mouse is over the window"
+msgstr ""
+"Mostra el títol de la finestra quan el ratolí estigui damunt de la finestra."
+
+#: src/pager.c:1871
+msgid "Continuously scan screen to update pager"
+msgstr "Escaneja contínuament la pantalla per actualitzar el paginador"
+
+#: src/pager.c:1894
+msgid "Mouse button to select and drag windows:"
+msgstr "Botó del ratolí per a seleccionar i arrossegar finestres:"
+
+#: src/pager.c:1904 src/pager.c:1929 src/pager.c:1954
+msgid "Middle"
+msgstr "Central"
+
+#: src/pager.c:1919
+msgid "Mouse button to select desktops:"
+msgstr "Botó del ratolí per a seleccionar escriptori:"
+
+#: src/pager.c:1944
+msgid "Mouse button to display pager menu:"
+msgstr "Botó del ratolí per a mostrar el menú del paginador:"
+
+#: src/pager.c:1968
+msgid "Pagers"
+msgstr "Paginadors"
+
+#: src/pager.c:1968
+msgid "Pager Settings"
+msgstr "Opcions del paginador"
+
+#: src/pager.c:1972
+msgid ""
+"Enlightenment Desktop & Area\n"
+"Pager Settings Dialog"
+msgstr ""
+"Escriptori i àrea d'Enlightenment\n"
+"Diàleg dels paràmetres del paginador"
+
+#: src/session.c:329
+msgid ""
+"ERROR!\n"
+"\n"
+"Lost the Session Manager that was there?\n"
+"Here here session manager... come here... want a bone?\n"
+"Oh come now! Stop sulking! Bugger. Oh well. Will continue without\n"
+"a session manager.\n"
+"\n"
+"I'll survive somehow.\n"
+"\n"
+"\n"
+"... I hope.\n"
+msgstr ""
+"ERROR!\n"
+"\n"
+"S'ha perdut el gestor de sessió que hi havia?\n"
+"Aquí, aquí gestor de sessió... vine!, vine!... Vols una galeteta?\n"
+"Oh vine ara! No passis de mi! No cardis l'ànec. Doncs molt bé. Jo "
+"continuaré\n"
+"sense un gestor de sessió\n"
+"\n"
+"Sobreviuré d'alguna manera.\n"
+"\n"
+"\n"
+"... com a mínim això espero.\n"
+
+#: src/session.c:632
+msgid "Are you sure?"
+msgstr "N'esteu segur?"
+
+#: src/session.c:634
+msgid "Are you sure you wish to log out ?"
+msgstr "Esteu segur que voleu tancar la sessió?"
+
+#: src/session.c:642
+msgid "Yes, Shut Down"
+msgstr "Sí, apaga"
+
+#: src/session.c:644
+msgid "Yes, Reboot"
+msgstr "Sí, reinicia"
+
+#: src/session.c:647
+msgid "Yes, Log Out"
+msgstr "Sí, tanca la sessió"
+
+#: src/session.c:649
+msgid "No"
+msgstr "No"
+
+#: src/session.c:782
+msgid "Enable Session Script"
+msgstr "Activa l'script de sessió"
+
+#: src/session.c:787
+msgid "Enable Logout Dialog"
+msgstr "Activa el diàleg de sortida"
+
+#: src/session.c:792
+msgid "Enable Reboot/Halt on Logout"
+msgstr "Activa Reinicia/Atura al sortir"
+
+#: src/session.c:798
+msgid "Session"
+msgstr "Sessió"
+
+#: src/session.c:798
+msgid "Session Settings"
+msgstr "Paràmetres de sessió"
+
+#: src/session.c:802
+msgid ""
+"Enlightenment Session\n"
+"Settings Dialog"
+msgstr ""
+"Sessió Enlightenment\n"
+"Diàleg de paràmetres"
+
+#: src/settings.c:88
+msgid "Move Methods:"
+msgstr "Mètodes de moviment:"
+
+#: src/settings.c:93
+msgid "Resize Methods:"
+msgstr "Mètodes de canvi de tamany:"
+
+#: src/settings.c:106 src/settings.c:111 src/settings.c:386
+msgid "Technical"
+msgstr "Tècnic"
+
+#: src/settings.c:116 src/settings.c:121 src/settings.c:391
+msgid "TechOpaque"
+msgstr "TecOpac"
+
+#: src/settings.c:140
+msgid "Avoid server grab"
+msgstr "Evita la captura del servidor"
+
+#: src/settings.c:150
+msgid "Move/Resize Geometry Info Postion:"
+msgstr "Mou/Redimensiona la posició de la informació de geometria:"
+
+#: src/settings.c:154
+msgid "Window Center (O/T/B Methods)"
+msgstr "Centrat de finestra (Mètodes O/T/B)"
+
+#: src/settings.c:160
+msgid "Always Screen corner"
+msgstr "Sempre amb cantonada de pantalla"
+
+#: src/settings.c:166
+msgid "Don't show"
+msgstr "No mostris"
+
+#: src/settings.c:178
+msgid "Default Resize Policy:"
+msgstr "Política predeterminada de redimensionat:"
+
+#: src/settings.c:182
+msgid "Conservative"
+msgstr "Conservador"
+
+#: src/settings.c:188
+msgid "Available"
+msgstr "Disponible"
+
+#: src/settings.c:194
+msgid "Absolute"
+msgstr "Absolut"
+
+#: src/settings.c:204
+msgid "Update window while moving"
+msgstr "Actualitza la finestra mentre es mogui"
+
+#: src/settings.c:209
+msgid "Synchronize move/resize with application"
+msgstr "Sincronitza mou/redimensiona amb l'aplicació"
+
+#: src/settings.c:214
+msgid "Do not cover dragbar"
+msgstr "No tapis la barra d'arrossegament."
+
+#: src/settings.c:219
+msgid "Enable smart maximization"
+msgstr "Activa la maximització intel·ligent"
+
+#: src/settings.c:224
+msgid "Animate window maximization"
+msgstr "Anima la maximització de la finestra"
+
+#: src/settings.c:230
+msgid "Maximization animation speed:"
+msgstr "Velocitat de l'animació de la maximització:"
+
+#: src/settings.c:241
+msgid "Move/Resize"
+msgstr "Mou/Redimensiona"
+
+#: src/settings.c:241
+msgid "Move & Resize Settings"
+msgstr "Paràmetres Mou/Redimensiona"
+
+#: src/settings.c:245
+msgid ""
+"Enlightenment Move & Resize\n"
+"Method Settings Dialog"
+msgstr ""
+"Mou/Redimensiona d'Enlightenment\n"
+"Diàleg dels paràmetres del mètode"
+
+#: src/settings.c:340
+msgid "Dialog windows appear together with their owner"
+msgstr ""
+"Els diàlegs de les finestres es mostraran juntament amb la finestra "
+"propietària"
+
+#: src/settings.c:345
+msgid "Switch to desktop where dialog appears"
+msgstr "Canvia a l'escriptori a on apareixi el diàleg"
+
+#: src/settings.c:353
+msgid "Place windows manually"
+msgstr "Ubica les finestres manualment"
+
+#: src/settings.c:358
+msgid "Place windows under mouse"
+msgstr "Ubica les finestres sota el ratolí"
+
+#: src/settings.c:363
+msgid "Center windows when desk is full"
+msgstr "Centra les finestres quan l'escriptori estigui ple"
+
+#: src/settings.c:368
+msgid "Slide windows in when they appear"
+msgstr "Diapositives de les finestres a dins quan apareixin"
+
+#: src/settings.c:373
+msgid "Slide windows around when cleaning up"
+msgstr "Diapositives de les finestres al voltant quan es netegi"
+
+#: src/settings.c:378
+msgid "Slide Method:"
+msgstr "Mètode de diapositiva"
+
+#: src/settings.c:405
+msgid "Appear Slide speed:"
+msgstr "Velocitat de l'aparició de la diapositiva:"
+
+#: src/settings.c:416
+msgid "Cleanup Slide speed:"
+msgstr "Velocitat de la neteja de la diapositiva:"
+
+#: src/settings.c:429
+msgid "Animate shading and unshading of windows"
+msgstr "Animació de l'ombrejat de les finestres"
+
+#: src/settings.c:435
+msgid "Window Shading speed:"
+msgstr "Velocitat de l'ombrejat de la finestra:"
+
+#: src/settings.c:448
+msgid "Ignore struts/panels for placing normal windows"
+msgstr "Ignora les estructures/taulers per posicionar finestres normals"
+
+#: src/settings.c:453
+msgid "Ignore struts/panels when windows are fullscreen"
+msgstr ""
+"Ignora les estructures/taulers quan les finestres siguin pantalla completa"
+
+#: src/settings.c:458
+msgid "Ignore struts/panels when maximizing windows"
+msgstr "Ignora les estructures/taulers quan es maximitzin finestres"
+
+#: src/settings.c:463
+msgid "Raise fullscreen windows"
+msgstr "Apuja les finestres de pantalla completa"
+
+#: src/settings.c:471
+msgid "Place windows on another head when full"
+msgstr "Posiciona les finestres en una altra capçalera quan estigui ple"
+
+#: src/settings.c:479
+msgid "Placement"
+msgstr "Emplaçament"
+
+#: src/settings.c:479
+msgid "Window Placement Settings"
+msgstr "Paràmetres posicionament finestres"
+
+#: src/settings.c:483
+msgid ""
+"Enlightenment Window Placement\n"
+"Settings Dialog"
+msgstr ""
+"Posicionament de finestres Enlightenment\n"
+"Diàleg de paràmetres"
+
+#: src/settings.c:526
+msgid "Enable Dialog Headers"
+msgstr "Activa les capçaleres de diàleg"
+
+#: src/settings.c:532
+msgid "Enable Button Images"
+msgstr "Activa les imatges de botó"
+
+#: src/settings.c:541
+msgid "Enable sliding startup windows"
+msgstr "Activa desplaçament finestres d'inici"
+
+#: src/settings.c:549
+msgid "Use saveunders to reduce window exposures"
+msgstr "Utilitza desa sota per reduïr les exposicions de la finestra"
+
+#: src/settings.c:558
+msgid "Magwin zoom resolution"
+msgstr "Resolució ampliació finestra"
+
+#: src/settings.c:570 config/strings.c:136 config/strings.c:152
+msgid "Miscellaneous"
+msgstr "Miscel·lània"
+
+#: src/settings.c:570
+msgid "Miscellaneous Settings"
+msgstr "Altres opcions"
+
+#: src/settings.c:574
+msgid ""
+"Enlightenment Miscellaneous\n"
+"Settings Dialog"
+msgstr ""
+"Diàleg de configuració\n"
+"Diversos"
+
+#: src/settings.c:610
+msgid "Enable Composite"
+msgstr "Activa composició"
+
+#: src/settings.c:618
+msgid "Enable Fading"
+msgstr "Activa esvaïment"
+
+#: src/settings.c:624
+msgid "Fading Speed:"
+msgstr "Velocitat d'esvaïment:"
+
+#: src/settings.c:637
+msgid "Shadows Off"
+msgstr "Ombres desactivades"
+
+#: src/settings.c:643
+msgid "Shadows Sharp"
+msgstr "Realçat d'ombres"
+
+#: src/settings.c:649
+msgid "Shadows Sharp2"
+msgstr "Realçat d'ombres2"
+
+#: src/settings.c:655
+msgid "Shadows Blurred"
+msgstr "Ombra difuminada"
+
+#: src/settings.c:666
+msgid "Default focused window opacity:"
+msgstr "Opacitat predeterminada de la finestra activa:"
+
+#: src/settings.c:677
+msgid "Default unfocused window opacity:"
+msgstr "Opacitat predeterminada de la finestra no activa:"
+
+#: src/settings.c:688
+msgid "Default pop-up window opacity:"
+msgstr "Opacitat predeterminada de la finestra emergent:"
+
+#: src/settings.c:699
+msgid "Composite"
+msgstr "Composició"
+
+#: src/settings.c:699
+msgid "Composite Settings"
+msgstr "Opcions de composició"
+
+#: src/settings.c:703
+msgid ""
+"Enlightenment Composite\n"
+"Settings Dialog"
+msgstr ""
+"Enlightenment Composició\n"
+"Diàleg de paràmetres"
+
+#: src/settings.c:787
+msgid "Enlightenment Settings"
+msgstr "Paràmetres Enlightenment"
+
+#: src/setup.c:62
+msgid ""
+"Enlightenment cannot connect to the display nominated by\n"
+"your shell's DISPLAY environment variable. You may set this\n"
+"variable to indicate which display name Enlightenment is to\n"
+"connect to. It may be that you do not have an Xserver already\n"
+"running to serve that Display connection, or that you do not\n"
+"have permission to connect to that display. Please make sure\n"
+"all is correct before trying again. Run an Xserver by running\n"
+"xdm or startx first, or contact your local system\n"
+"administrator, or Xserver vendor, or read the X, xdm and\n"
+"startx manual pages before proceeding.\n"
+msgstr ""
+"Enlightenment no pot connectar amb la pantalla que indica\n"
+"la variable d'entorn DISPLAY. Haurieu de canviar aquesta\n"
+"variable per indicar amb quin nom de display ha de connectar\n"
+"Enlightenment. Pot ser que no tingueu cap Xserver que estigui\n"
+"iniciat i pugui servir la connexió amb la pantalla, o que no tingueu\n"
+"permís per connectar amb aquesta pantalla. Comproveu que\n"
+"tot estigui correcte abans d'intentar-ho de nou. Executi un Xserver\n"
+"executant primer xdm or startx, o contacteu amb l'administrador\n"
+"de sistema, o venedor d'Xserver, o llegiu les pàgines dels manuals\n"
+"d'X, xdm i startx abans de continuar.\n"
+
+#: src/setup.c:162
+msgid "Another Window Manager is already running"
+msgstr "S'està executant un altre gestor de finestres"
+
+#: src/setup.c:164
+msgid ""
+"Another Window Manager is already running.\n"
+"\n"
+"You will have to quit your current Window Manager first before\n"
+"you can successfully run Enlightenment.\n"
+msgstr ""
+"Un altre gestor de finestres s'està executant.\n"
+"\n"
+"Primer haureu de sortir del vostre gestor actual de finestres\n"
+"abans de poder executar Enlightenment.\n"
+
+#: src/setup.c:175
+msgid "Cannot select root window button press events"
+msgstr "No es poden seleccionar els successos de botó de la finestra arrel"
+
+#: src/setup.c:177
+msgid "Root window button actions will not work.\n"
+msgstr "Les accions del botó de la finestra arrel no funcionaran.\n"
+
+#: src/setup.c:183
+msgid "X server version error"
+msgstr "Error de la versió del servidor X"
+
+#: src/setup.c:183
+msgid "Ignore this error"
+msgstr "Ignora aquest error"
+
+#: src/setup.c:185
+#, c-format
+msgid ""
+"WARNING:\n"
+"This is not an X11 Xserver. It in fact talks the X%i protocol.\n"
+"This may mean Enlightenment will either not function, or\n"
+"function incorrectly. If it is later than X11, then your\n"
+"server is one the author of Enlightenment neither have\n"
+"access to, nor have heard of.\n"
+msgstr ""
+"AVÍS:\n"
+"Això no és un servidor X tipus X11 Xserver però si que parla\n"
+"el protocol X%i. Això pot dir que Enlightenment pot ser que\n"
+"no funcioni, o no funcioni correctament.\n"
+"Si és més actual que X11,  aleshores l'autor d'Enlightenment\n"
+"no hi ha tingut accés o no n'ha sentit mai a parlar.\n"
+
+#: src/snaps.c:717
+msgid "Title:"
+msgstr "Títol:"
+
+#: src/snaps.c:729
+msgid "Name:"
+msgstr "Nom:"
+
+#: src/snaps.c:742
+msgid "Class:"
+msgstr "Classe:"
+
+#: src/snaps.c:755
+msgid "Role:"
+msgstr "Rol:"
+
+#: src/snaps.c:768
+msgid "Command:"
+msgstr "Ordre:"
+
+#: src/snaps.c:807
+msgid "Track Changes"
+msgstr "Canvis de pista"
+
+#: src/snaps.c:812
+msgid "Location"
+msgstr "Ubicació"
+
+#: src/snaps.c:817
+msgid "Border style"
+msgstr "Estil de vora"
+
+#: src/snaps.c:822 config/strings.c:175
+msgid "Size"
+msgstr "Mida"
+
+#: src/snaps.c:827 config/strings.c:90 config/strings.c:112
+msgid "Desktop"
+msgstr "Escriptori"
+
+#: src/snaps.c:832
+msgid "Shaded state"
+msgstr "Estat ombrejat"
+
+#: src/snaps.c:837
+msgid "Sticky state"
+msgstr "Estat enganxós"
+
+#: src/snaps.c:842
+msgid "Stacking layer"
+msgstr "Capa d'apilament"
+
+#: src/snaps.c:847
+msgid "Window List Skip"
+msgstr "Salta llista de finestres"
+
+#: src/snaps.c:853 config/strings.c:135 config/strings.c:163
+msgid "Opacity"
+msgstr "Opacitat"
+
+#: src/snaps.c:858
+msgid "Shadowing"
+msgstr "Ombrejant"
+
+#: src/snaps.c:864
+msgid "Flags"
+msgstr "Indicadors"
+
+#: src/snaps.c:883
+msgid "Restart application on login"
+msgstr "Reinicia l'aplicació a l'iniciar sessió"
+
+#: src/snaps.c:902
+msgid "Remember this window's group(s)"
+msgstr "Recorda aquest/s grup/s de finestres"
+
+#: src/snaps.c:909
+msgid "Remembered Application Attributes"
+msgstr "Atributs d'aplicació memoritzats"
+
+#: src/snaps.c:913
+msgid ""
+"Select the attributes of this\n"
+"window you wish to Remember\n"
+"from now on\n"
+msgstr ""
+"Seleccioneu els atributs d'aquesta\n"
+"finestra que voleu memoritzar\n"
+"a partir d'ara\n"
+
+#: src/snaps.c:1004
+msgid "Delete"
+msgstr "Suprimeix"
+
+#: src/snaps.c:1032
+msgid "Remembered Settings..."
+msgstr "Configuracions memoritzades..."
+
+#: src/snaps.c:1039
+msgid "Unused"
+msgstr "No utilitzat"
+
+#: src/snaps.c:1052
+msgid "There are no active windows with remembered attributes."
+msgstr "No hi ha finestres actives amb atributs memoritzats."
+
+#: src/snaps.c:1058
+msgid "Remember"
+msgstr "Recorda"
+
+#: src/snaps.c:1058
+msgid "Remembered Windows Settings"
+msgstr "Configuracions memoritzades de finestres"
+
+#: src/snaps.c:1062
+msgid ""
+"Enlightenment Remembered\n"
+"Windows Settings Dialog"
+msgstr ""
+"Diàleg per la memorització\n"
+"de configuracions de finestres"
+
+#: src/snaps.c:1163
+msgid "Error saving snaps file"
+msgstr "Error desant el fitxer d'ajustaments"
+
+#: src/sound.c:212
+msgid "Error finding sound file"
+msgstr "Error cercant el fitxer de so"
+
+#: src/sound.c:213
+#, c-format
+msgid ""
+"Warning!  Enlightenment was unable to load the\n"
+"following sound file:\n"
+"%s\n"
+"Enlightenment will continue to operate, but you\n"
+"may wish to check your configuration settings.\n"
+msgstr ""
+"Avís!  Enlightenment no ha pogut carregar\n"
+"el següent fitxer de so:\n"
+"%s\n"
+"Enlightenment continuarà funcionant, però\n"
+"potser voleu comprovar els paràmetres de\n"
+"configuració.\n"
+
+#: src/sound.c:309
+msgid "Error initialising sound"
+msgstr "Error inicialitzant el so"
+
+#: src/sound.c:310
+#, c-format
+msgid ""
+"Audio was enabled for Enlightenment but there was an error\n"
+"communicating with the audio server (%s).\n"
+"Audio will now be disabled.\n"
+msgstr ""
+"L'àudio s'ha activat per Enlightenment però ha succeït un error\n"
+"comunicant amb el servidor d'àudio (%s).\n"
+"L'àudio es desactivarà a partir d'ara.\n"
+
+#: src/sound.c:463
+msgid "Enable sounds"
+msgstr "Activa els sons"
+
+#: src/sound.c:469
+msgid "Sound"
+msgstr "So"
+
+#: src/sound.c:469
+msgid "Audio Settings"
+msgstr "Paràmetres d'àudio"
+
+#: src/sound.c:473
+msgid ""
+"Enlightenment Audio\n"
+"Settings Dialog"
+msgstr ""
+"Diàleg de configuració\n"
+"d'àudio"
+
+#: src/systray.c:331 src/systray.c:431 src/systray.c:439
+msgid "Systray Error!"
+msgstr "Error safata de sistema"
+
+#: src/systray.c:331
+msgid "Systray went elsewhere?!?"
+msgstr "On diantre és la safata del sistema?!?"
+
+#: src/systray.c:431
+msgid "Only one systray is allowed"
+msgstr "Només es permet una safata de sistema"
+
+#: src/systray.c:439
+msgid "Could not activate systray"
+msgstr "No s'ha pogut activar la safata de sistema"
+
+#: src/systray.c:449
+msgid "Systray Options"
+msgstr "Opcions safata de sistema"
+
+#: src/systray.c:450
+msgid "Systray Settings"
+msgstr "Preferències safata del sistema"
+
+#: src/theme.c:348
+#, c-format
+msgid ""
+"No themes were found in the default directories:\n"
+" %s\n"
+"Proceeding from here is mostly pointless.\n"
+msgstr ""
+"No s'ha trobat cap tema als directoris predeterminats:\n"
+" %s\n"
+"No té cap sentit iniciar des d'aquí.\n"
+
+#: src/theme.c:377
+msgid "Changes will take effect after restart"
+msgstr "Els canvis seran efectius després de reiniciar"
+
+#: src/theme.c:397
+msgid "Use theme font configuration"
+msgstr "Utilitza la configuració del tipus de lletra del tema"
+
+#: src/theme.c:402
+#, c-format
+msgid "Use alternate font configuration (%s)"
+msgstr "Utilitza la configuració alternativa del tipus de lletra del tema (%s)"
+
+#: src/theme.c:403
+msgid "Not set"
+msgstr "No establert"
+
+#: src/theme.c:410
+msgid "Theme"
+msgstr "Tema"
+
+#: src/theme.c:410
+msgid "Theme Settings"
+msgstr "Configuració tema"
+
+#: src/theme.c:414
+msgid ""
+"Enlightenment Theme\n"
+"Settings Dialog"
+msgstr ""
+"Diàleg de configuració\n"
+"del tema"
+
+#: src/tooltips.c:852
+msgid "Display Tooltips"
+msgstr "Mostra indicadors de funció"
+
+#: src/tooltips.c:857
+msgid "Display Root Window Tips"
+msgstr "Mostra inicadors de funció a la finestra arrel"
+
+#: src/tooltips.c:862
+msgid "Tooltip Delay:"
+msgstr "Retard en l'indicador de funció"
+
+#: src/tooltips.c:873
+msgid "Tooltips"
+msgstr "Indicadors de funció"
+
+#: src/tooltips.c:873
+msgid "Tooltip Settings"
+msgstr "Configuració indicadors de funció"
+
+#: src/tooltips.c:877
+msgid ""
+"Enlightenment Tooltip\n"
+"Settings Dialog"
+msgstr ""
+"Diàleg de la configuració\n"
+"dels indicadors de funció"
+
+#: config/strings.c:5
+msgid ""
+"Click and drag to move desktop\n"
+"(on any desktop but desktop 0)"
+msgstr ""
+"Cliqueu i arrossegueu per moure escriptori\n"
+"(a qualsevol escriptori menys escriptori 0)"
+
+#: config/strings.c:6 config/strings.c:8
+msgid "Switch Desktops"
+msgstr "Commuta escriptoris"
+
+#: config/strings.c:7
+msgid "Go to the next desktop."
+msgstr "Vés a l'escriptori següent"
+
+#: config/strings.c:9
+msgid "Go to the previous desktop."
+msgstr "Vés a l'escriptori anterior"
+
+#: config/strings.c:10
+msgid "Move"
+msgstr "Mou"
+
+#: config/strings.c:11 config/strings.c:23 config/strings.c:26
+#: config/strings.c:29
+msgid "Move this window."
+msgstr "Mou aquesta finestra"
+
+#: config/strings.c:12 config/strings.c:14 config/strings.c:48
+msgid "Shade/Unshade this window."
+msgstr "Plega/desplega aquesta finestra"
+
+#: config/strings.c:13 config/strings.c:50 config/strings.c:53
+msgid "Show the Window Options menu."
+msgstr "Mostra el menú d'opcions de la finestra"
+
+#: config/strings.c:15
+msgid "Show/Hide group borders."
+msgstr "Mostra/amaga vores del grup."
+
+#: config/strings.c:16
+msgid "Start a group."
+msgstr "Crea un grup."
+
+#: config/strings.c:17
+msgid "Add to current group."
+msgstr "Afegeix al grup actual."
+
+#: config/strings.c:18
+msgid "Break this window's group."
+msgstr "Trenca aquest grup de finestres"
+
+#: config/strings.c:19
+msgid "Shade."
+msgstr "Ombreja."
+
+#: config/strings.c:20
+msgid "Unshade."
+msgstr "No ombregis."
+
+#: config/strings.c:21
+msgid "Resize"
+msgstr "Canvia la mida"
+
+#: config/strings.c:22
+msgid "Resize this window."
+msgstr "Redimensiona aquesta finestra."
+
+#: config/strings.c:24
+msgid "Resize Horizontally"
+msgstr "Redimensiona horitzontalment"
+
+#: config/strings.c:25
+msgid "Resize this window horizontally."
+msgstr "Redimesiona aquesta finestra horitzontalment."
+
+#: config/strings.c:27
+msgid "Resize Vertically"
+msgstr "Redimensiona verticalment"
+
+#: config/strings.c:28
+msgid "Resize this window vertically."
+msgstr "Redimesiona aquesta finestra verticalment."
+
+#: config/strings.c:31
+msgid "Close this window."
+msgstr "Tanca aquesta finestra."
+
+#: config/strings.c:32
+msgid "Forcibly destroy this window."
+msgstr "Força la destrucció d'aquesta finestra."
+
+#: config/strings.c:33
+msgid "Maximize Height"
+msgstr "Alçada d'ampliació."
+
+#: config/strings.c:34 config/strings.c:40
+msgid "Toggle between maximum screen height and normal height."
+msgstr "Commuta entre l'alçada màxima de la pantalla i l'alçada normal."
+
+#: config/strings.c:35
+msgid "Maximize Width"
+msgstr "Augmenta l'amplada"
+
+#: config/strings.c:36 config/strings.c:39
+msgid "Toggle between maximum screen width and normal width."
+msgstr "Commuta entre l'amplada màxima de la pantalla i l'amplada normal."
+
+#: config/strings.c:37
+msgid "Maximize"
+msgstr "Maximitza"
+
+#: config/strings.c:38
+msgid "Toggle between maximum screen size and normal size."
+msgstr "Commuta entre la mida màxima de la pantalla i la mida normal."
+
+#: config/strings.c:41 config/strings.c:43
+msgid "Send To Another Desktop"
+msgstr "Envia cap a un altre escriptori"
+
+#: config/strings.c:42
+msgid "Send this Window to the next desktop."
+msgstr "Envia aquesta finestra a l'escriptori següent."
+
+#: config/strings.c:44
+msgid "Send this Window to the previous desktop."
+msgstr "Envia aquesta finestra a l'escriptori anterior."
+
+#: config/strings.c:45
+msgid "Snapshot"
+msgstr "Instantània"
+
+#: config/strings.c:46
+msgid "This button does nothing interesting."
+msgstr "Aquest botó no fa res interessant."
+
+#: config/strings.c:47 config/strings.c:128
+msgid "Shade/Unshade"
+msgstr "Plega/Desplega"
+
+#: config/strings.c:52
+msgid "Iconify (Minimize) this window."
+msgstr "Minimitza aquesta finestra"
+
+#: config/strings.c:54
+msgid "More Buttons"
+msgstr "Més botons"
+
+#: config/strings.c:55
+msgid "Show more buttons."
+msgstr "Mostra més botons."
+
+#: config/strings.c:56 config/strings.c:126
+msgid "Raise"
+msgstr "Puja"
+
+#: config/strings.c:57
+msgid "Raise this window to the top."
+msgstr "Puja aquesta finestra a dalt de tot."
+
+#: config/strings.c:58 config/strings.c:127
+msgid "Lower"
+msgstr "Baixa"
+
+#: config/strings.c:59
+msgid "Lower this window."
+msgstr "Abaixa aquesta finestra"
+
+#: config/strings.c:60 config/strings.c:129
+msgid "Stick/Unstick"
+msgstr "Enganxa/Desengantxa"
+
+#: config/strings.c:61
+msgid "Toggle the Omnipresent (visible on all Desktops) state of this window."
+msgstr ""
+"Commuta Estat Omnipresent (visible en tots els escriptoris) d'aquesta "
+"finestra."
+
+#: config/strings.c:63
+msgid ""
+"Clicking your mouse on the desktop will perform\n"
+"the following actions"
+msgstr ""
+"Clicant el ratolí a l'escriptori farà\n"
+"les següents accions"
+
+#: config/strings.c:64
+msgid "Display User Menus"
+msgstr "Mostra el menús d'usuari"
+
+#: config/strings.c:65 config/strings.c:67
+msgid "Display Enlightenment Menu"
+msgstr "Mostra el mení Enlightenment"
+
+#: config/strings.c:66 config/strings.c:71
+msgid "Display Settings Menu"
+msgstr "Mostra el menú de configuració"
+
+#: config/strings.c:68
+msgid "Display Task List Menu"
+msgstr "Mostra el menú de llista de tasques"
+
+#: config/strings.c:69
+msgid "Display Desktop Menu"
+msgstr "Mostra el menú d'escriptori"
+
+#: config/strings.c:70
+msgid "Display Group Menu"
+msgstr "Mostra el menú de grup"
+
+#: config/strings.c:72
+msgid "Go Back a Desktop"
+msgstr "Vés a l'escriptori anterior"
+
+#: config/strings.c:73
+msgid "Go Forward a Desktop"
+msgstr "Vés a l'escriptori següent"
+
+#: config/strings.c:78
+msgid "Desktop Operations"
+msgstr "Operacions d'escriptori"
+
+#: config/strings.c:80
+msgid "Cleanup Desktop"
+msgstr "Neteja escriptori"
+
+#: config/strings.c:81
+msgid "Goto Next Desktop"
+msgstr "Vés al següent escriptori"
+
+#: config/strings.c:82
+msgid "Goto Previous Desktop"
+msgstr "Vés a l'anterior escriptori"
+
+#: config/strings.c:84
+msgid "Create Systray"
+msgstr "Crea safata de sistema"
+
+#: config/strings.c:85
+msgid "Show Magnifier"
+msgstr "Mostra ampliador"
+
+#: config/strings.c:87
+msgid "Enlightenment"
+msgstr "Enlightenment"
+
+#: config/strings.c:88 config/strings.c:189
+msgid "User Menus"
+msgstr "Menús d'usuari"
+
+#: config/strings.c:89 config/strings.c:110 config/strings.c:111
+msgid "Settings"
+msgstr "Paràmetres"
+
+#: config/strings.c:92 config/strings.c:99 config/strings.c:114
+msgid "Maintenance"
+msgstr "Manteniment"
+
+#: config/strings.c:93 config/strings.c:115
+msgid "Help"
+msgstr "Ajuda"
+
+#: config/strings.c:94 config/strings.c:116
+msgid "About Enlightenment"
+msgstr "Quant a Enlightenment"
+
+#: config/strings.c:95 config/strings.c:117
+msgid "About this theme"
+msgstr "Quant a aquest tema"
+
+#: config/strings.c:96 config/strings.c:118 config/strings.c:193
+msgid "Restart"
+msgstr "Reinicia"
+
+#: config/strings.c:97 config/strings.c:119 config/strings.c:194
+msgid "Log Out"
+msgstr "Finalitza sessió"
+
+#: config/strings.c:100
+msgid "Purge config file cache"
+msgstr "Neteja la memòria cau dels fitxers de configuració"
+
+#: config/strings.c:101
+msgid "Purge pager background cache"
+msgstr "Neteja la memòria cau del fons del paginador"
+
+#: config/strings.c:102
+msgid "Purge background selector cache"
+msgstr "Neteja la memòria cau del selector de fons"
+
+#: config/strings.c:103
+msgid "Purge all caches"
+msgstr "Neteja totes les memòries cau"
+
+#: config/strings.c:104
+msgid "Query config file cache usage"
+msgstr "Pregunta l'ús de la memòria cau del fitxer de configuracions"
+
+#: config/strings.c:105
+msgid "Query pager background cache usage"
+msgstr "Pregunta l'ús de la memòria cau del fons del paginador"
+
+#: config/strings.c:106
+msgid "Query background selector cache usage"
+msgstr "Pregunta l'ús de la memòria cau del selector de fons"
+
+#: config/strings.c:107
+msgid "Query all cache usage"
+msgstr "Pregunta l'ús de tota memòria cau"
+
+#: config/strings.c:108
+msgid "Regenerate Menus"
+msgstr "Regenera menus"
+
+#: config/strings.c:125
+msgid "Leave Alone"
+msgstr "Deixa sol"
+
+#: config/strings.c:130
+msgid "Remember..."
+msgstr "Memoritza..."
+
+#: config/strings.c:131
+msgid "Window Size"
+msgstr "Mida finestra"
+
+#: config/strings.c:132
+msgid "Set Stacking"
+msgstr "Estableix apilament"
+
+#: config/strings.c:133
+msgid "Set Border Style"
+msgstr "Estableix estil de vora"
+
+#: config/strings.c:134
+msgid "Window Groups"
+msgstr "Grups de finestra"
+
+#: config/strings.c:139
+msgid "Configure this window's group(s)"
+msgstr "Configura aquest/s grup/s de finestra"
+
+#: config/strings.c:140
+msgid "Start a new group"
+msgstr "Crea un nou grup"
+
+#: config/strings.c:141
+msgid "Add this window to the current group"
+msgstr "Afegeix aquesta finestra al grup actual"
+
+#: config/strings.c:142
+msgid "Select group to add this window to"
+msgstr "Selecciona el grup a on s'afegirà aquesta finestra"
+
+#: config/strings.c:143
+msgid "Remove this window from a group"
+msgstr "Elimina aquesta finestra d'un grup"
+
+#: config/strings.c:144
+msgid "Destroy a group this window belongs to"
+msgstr "Destrueix el grup a on pertany aquesta finestra"
+
+#: config/strings.c:146
+msgid "Stacking"
+msgstr "Apilament"
+
+#: config/strings.c:147
+msgid "Below"
+msgstr "A sota"
+
+#: config/strings.c:148
+msgid "Normal"
+msgstr "Normal"
+
+#: config/strings.c:149
+msgid "Above"
+msgstr "A sobre"
+
+#: config/strings.c:150
+msgid "On Top"
+msgstr "A dalt"
+
+#: config/strings.c:153
+msgid "Toggle Skip Window Lists"
+msgstr "Commuta Llista de salt a finestra"
+
+#: config/strings.c:154
+msgid "Toggle Fixed Position"
+msgstr "Commuta Posició fixa"
+
+#: config/strings.c:155
+msgid "Toggle Fixed Size"
+msgstr "Commuta Mida fixa"
+
+#: config/strings.c:156
+msgid "Toggle Never Focus"
+msgstr "Commuta Mai focus"
+
+#: config/strings.c:157
+msgid "Toggle Click to Focus"
+msgstr "Commuta Clic per enfocar"
+
+#: config/strings.c:158
+msgid "Toggle Never Use Area"
+msgstr "Commuta Mai utilitzis àrea"
+
+#: config/strings.c:159
+msgid "Toggle Ignore Arrange"
+msgstr "Commuta Ignora organització"
+
+#: config/strings.c:160
+msgid "Toggle Button Grabs"
+msgstr "Commuta captures botó"
+
+#: config/strings.c:161
+msgid "Toggle Autoshade"
+msgstr "Commuta Amaga automàticament"
+
+#: config/strings.c:164
+msgid "Default"
+msgstr "Predeterminat"
+
+#: config/strings.c:165
+msgid "20%"
+msgstr "20%"
+
+#: config/strings.c:166
+msgid "40%"
+msgstr "40%"
+
+#: config/strings.c:167
+msgid "60%"
+msgstr "60%"
+
+#: config/strings.c:168
+msgid "80%"
+msgstr "80%"
+
+#: config/strings.c:169
+msgid "100%"
+msgstr "100%"
+
+#: config/strings.c:170
+msgid "Focused opacity 100%"
+msgstr "Opacitat enfoc 100%"
+
+#: config/strings.c:171
+msgid "Focused opacity follows unfocused"
+msgstr "Opacitat enfoc segueix desenfocat"
+
+#: config/strings.c:172
+msgid "Toggle Fading"
+msgstr "Commuta esvaïment"
+
+#: config/strings.c:173
+msgid "Toggle Shadows"
+msgstr "Commuta ombrejat"
+
+#: config/strings.c:176
+msgid "Max Size Toggle"
+msgstr "Commuta Mida màxima"
+
+#: config/strings.c:177
+msgid "Available Max Size Toggle"
+msgstr "Commuta Mides màximes disponibles"
+
+#: config/strings.c:178
+msgid "Absolute Max Size Toggle"
+msgstr "Commuta Mida màxima absoluta"
+
+#: config/strings.c:179
+msgid "Span Xinerama Screens"
+msgstr "Interval de finestres Xinerama"
+
+#: config/strings.c:180
+msgid "Max Height Toggle"
+msgstr "Commuta Alçada màxima"
+
+#: config/strings.c:181
+msgid "Available Max Height Toggle"
+msgstr "Commuta Alçades màximes disponibles"
+
+#: config/strings.c:182
+msgid "Absolute Max Height Toggle"
+msgstr "Commuta Alçada màxima absoluta"
+
+#: config/strings.c:183
+msgid "Max Width Toggle"
+msgstr "Commuta Amplada màxima"
+
+#: config/strings.c:184
+msgid "Available Max Width Toggle"
+msgstr "Commuta Amplades màximes disponibles"
+
+#: config/strings.c:185
+msgid "Absolute Max Width Toggle"
+msgstr "Commuta Amplada màxima absoluta"
+
+#: config/strings.c:186
+msgid "Fullscreen/Normal"
+msgstr "Pantalla completa/Normal"
+
+#: config/strings.c:187
+msgid "Zoom/Unzoom"
+msgstr "Amplia/Redueix"
+
+#: config/strings.c:190
+msgid "User Application List"
+msgstr "Llista d'aplicacions d'usuari"
+
+#: config/strings.c:191
+msgid "Applications"
+msgstr "Aplicacions"
+
+#: config/strings.c:192
+msgid "Epplets"
+msgstr "Epplets"

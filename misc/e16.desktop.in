@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=E16
+Comment=The Enlightenment (e16) window manager
+Comment[ca]=El gestor de finestres Enlightenment (e16)
+Comment[de]=Die Enlightenment-(e16)-Fensterverwaltung
+Comment[el]=Ο διαχειριστής παραθύρων Enlightenment (e16)
+Comment[eo]=Enlightenment (e16) la fenestra agordilo
+Comment[fr]=Gestionnaire de fenêtres Enlightenment (e16)
+Comment[it]=Il window manager Enlightenment (e16)
+Comment[ja]=Enlightenment (e16) ウインドウマネージャ
+Comment[ms]=Pengurus tetingkp Enligtenment (e16)
+Comment[pt]=O gestor de janelas Enlightenment (e16)
+Comment[sr]=Управник прозора Просвећењe (e16)
+Comment[tr]=Enlightenment (e16) pencere yöneticisi
+Icon=@pkgdatadir@/icons/e16.png
+Exec=e16
